@@ -57,12 +57,14 @@ Modules and Namespaces
 • Namespace and internal modules
 • Ambient declarations
 • Module resolution
+
 Chapter 9:
 Decorators
 • Class Decorators
 • Method Decorators
 • Property Decorators
 • Parameter Decorators
+
 Chapter 10:
 TypeScript and Modern Frameworks
 • Angular with TypeScript
